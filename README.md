@@ -26,7 +26,7 @@ laws. Legal action may be taken accordingly.
 
 ## Executive Summary
 ### Key findings:
-A security evaluation of Apex Healthcare Solutions' legacy environmentsrevealed a critical failure
+A security evaluation of Apex Healthcare Solutions' legacy environments revealed a critical failure
 to maintain basic security hygiene. Both the Kioptrix and Metasploitable 2 systems run severely
 obsolete services, unpatched components, and insecure configurations. Multiple vulnerabilities
 allow unauthenticated network attackers to gain total administrative root access over the host
