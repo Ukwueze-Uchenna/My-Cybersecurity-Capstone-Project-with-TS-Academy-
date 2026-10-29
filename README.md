@@ -5,9 +5,13 @@
   **Title: From Vulnerability to Compliance, Securing Legacy Systems at Apex Healthcare Solutions**
 </div>
 
+---
+
 ## About Apex Healthcare Solutions:
 Apex Healthcare Solutions is a medium-sized healthcare technology company that provides 
 digital patient record services to clinics and hospitals. 
+
+---
 
 ## Private and Confidential: 
 This report "From Vulnerability to Compliance: Securing Legacy Systems at Apex Healthcare 
@@ -18,6 +22,8 @@ without the prior express written permission of “Apex Healthcare Solutions”.
 copying, distribution, or disclosure of this Report is strictly prohibited and may violate applicable 
 laws. Legal action may be taken accordingly.
 
+---
+
 ## Executive Summary
 ### Key findings:
 A security evaluation of Apex Healthcare Solutions' legacy environmentsrevealed a critical failure
@@ -25,6 +31,8 @@ to maintain basic security hygiene. Both the Kioptrix and Metasploitable 2 syste
 obsolete services, unpatched components, and insecure configurations. Multiple vulnerabilities
 allow unauthenticated network attackers to gain total administrative root access over the host
 operating systems without valid credentials.
+
+---
 
 ### Highest-risk vulnerabilities
 The immediate threats to the organization's environment include:
@@ -34,6 +42,8 @@ The immediate threats to the organization's environment include:
 eNcryption)
 4. HTTP TRACE/TRACK Methods Allowed
 
+---
+
 ## Recommended controls
 To isolate and remediate these critical exposure points, Apex Healthcare Solutions must deploy
 the following controls:
@@ -42,6 +52,8 @@ the following controls:
 3. Regular Security Patch Management
 4. Secure Web Server Configuration
 5. Firewall and ICMP Filtering Policy
+
+---
 
 ## Recommended policies
 To establish long-term security governance, the following policies must be implemented:
@@ -56,14 +68,20 @@ only.
 5. Secure Configuration/Hardening Policy: This policy ensures that unnecessary default
 settings, services, and files are removed.
 
+---
+
 ## Overall security posture
 The current security posture of these legacy environment is compromised. If left unmitigated,
 these platforms represent an unacceptably high business risk to operational continuity and
 regulatory compliance. Because these hosts reside inside an environment providing digital
 patient record services, the ease of exploitation drastically elevates the threat of data breaches.
 
+---
+
 ## For a more comprehensive detail, see: 
 https://github.com/Ukwueze-Uchenna/Ukwueze-Uchenna-/blob/main/My%20capstone%20project.docx%20final%20copy%20(1of1).pdf
+
+---
 
 ## 💡Note:
 After careful and thorough evaluation by TS Academy, this project was scored at 90/100.
